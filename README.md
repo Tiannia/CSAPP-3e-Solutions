@@ -52,3 +52,8 @@ You can
 
 Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
 - [cmu lab](http://csapp.cs.cmu.edu/3e/labs.html)
+
+## Quick Review
+
+notes about CSAPP
+- [notes](https://github.com/Sixzeroo/CSAPP)
