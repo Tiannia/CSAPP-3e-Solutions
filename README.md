@@ -48,4 +48,7 @@ You can
 2021-03-01
 - Using hugo as website generator instead of gitbook
 
+## Lab Website
 
+Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
+- [cmu lab](http://csapp.cs.cmu.edu/3e/labs.html)
